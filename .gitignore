@@ -1,0 +1,63 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/DALVIK VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+app/app/build/
+.gradle/
+app/.gradle/
+app/app/.gradle/
+app/.cxx/
+app/app/.cxx/
+
+# Local configuration file (sdk path, etc)
+local.properties
+app/local.properties
+app/app/local.properties
+
+# Android Studio / IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Antigravity artifacts and dev documentation
+.artifacts/
+PRD.md
+FEATURES.md
+architecture.md
+design.md
+phase.md
+*.artifact.md
+
